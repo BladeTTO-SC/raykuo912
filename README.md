@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raykuo912
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning python, SQL and Power Bi.
+- 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on community
 - 📫 How to reach me send a mail to matheusazevedo090@gmail.com
 
